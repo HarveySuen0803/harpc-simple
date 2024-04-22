@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.harvey</groupId>
-    <artifactId>chat-server</artifactId>
+    <artifactId>simple-rpc-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>chat-server</name>
 
